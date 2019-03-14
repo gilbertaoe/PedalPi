@@ -23,7 +23,7 @@ To setup the startup script run the command:
 ```
 sudo nano /etc/rc.local
 ```
-and before the line `exit 0` enter the line below, once down press CTR+X so save and exit nano text editor:
+and before the line `exit 0` enter the line below, once finished press CTR+X so save and exit nano text editor:
 ```
 bash /home/pi/PedalPi/run.sh
 ```
