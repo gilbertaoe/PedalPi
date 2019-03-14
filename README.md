@@ -28,7 +28,7 @@ and before the line `exit 0` enter the line below, once finished press CTR+X so 
 bash /home/pi/PedalPi/run.sh
 ```
 
-Once setup, when ever your raspberry pi starts up it will do :
+Once setup, when ever your raspberry pi starts up it will :
 + If wifi is connected properly, the git repo will pull the latest from master
 + src/pedalPiStart will be run
 
