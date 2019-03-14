@@ -15,8 +15,8 @@ sudo make install
 ```
 Any code running with bcm2835 needs to run with sudo. Once the library is installed you can test it with test.c by running:
 ```
-gcc -o test -l rt -l bcm2835
-sudo ./test
+gcc example.c -o example -l rt -l bcm2835
+sudo ./example
 ```
 
 To setup the startup script run the command:
