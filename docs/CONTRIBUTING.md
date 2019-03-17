@@ -1,1 +1,1 @@
-
+If you wish to contribute, please contact the repo administrator at gilbertaoe@hotmail.com. When commiting changes, contributors must push to a new branch and create a pull request to merge the changes into master. Pull requests need at least one approver and should meet the standards found in the Wiki.
