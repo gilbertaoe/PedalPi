@@ -2,4 +2,4 @@
 
 cd /home/pi/PedalPi/
 git pull
-echo Hello World!
+make pedalStart
